@@ -1,5 +1,5 @@
-# DevSecOps--Netflix
-This project demonstrates a complete DevSecOps pipeline for deploying a Netflix Clone application. It automates code integration, security scanning, containerization, deployment, and monitoring using modern DevOps tools.
+# Netflix-Clone-DevSecOps-with-Monitoring
+An end-to-end DevSecOps project for a Netflix Clone application with CI/CD automation, security scanning, Docker, Kubernetes (Amazon EKS), Terraform, and monitoring using Prometheus and Grafana on AWS.
 
 ## Features
 - End-to-end DevSecOps CI/CD pipeline using Jenkins.
