@@ -3,6 +3,7 @@
 ## Features
 
 ## Architecture Diagram
+![DevSecOps-Netflix](architecture.png)
 
 ## Technologies used
 
