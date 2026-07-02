@@ -95,8 +95,8 @@ The pipeline performs:
 - Access the Netflix Clone application from the browser.
 
 ## Screenshot
-![DevSecOps-Netflix](result2.png)
-![DevSecOps-Netflix](result3.png)
+![DevSecOps-Netflix](result-2.png)
+![DevSecOps-Netflix](result-3.png)
 
 ## Contributing
 Pull requests are welcome! If you find any issues, feel free to open an issue.
